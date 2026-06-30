@@ -1,0 +1,6 @@
+{
+  "name": "Covality Real Estate Intelligence",
+  "description": "Pakistan's first AI-powered real estate intelligence dashboard, featuring historical price indices, QoQ/YoY market momentum, a bilingual AI Concierge, executive pipelines, and a secure Real Estate Agent CRM for listers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
